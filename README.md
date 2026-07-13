@@ -3,3 +3,5 @@
 ![Image](https://github.com/ladsorladd/ladsorladd/blob/5a276ca0003373f23a9ab39c5f2b613fee4d8b3d/Tak%20berjudul126_20260714045124.png)
 
 ![Image](https://github.com/ladsorladd/ladsorladd/blob/1f1a1a13afbe0eae3557b35c07764bfecfa9c16a/Tak%20berjudul125_20260714043924.png)
+
+<p align="center"> <img src="https://pixelsafari.neocities.org/stamps/more/undertale2.png" width="96" alt="Stamp 1" /> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/b150211f-de02-47ef-8a44-204678bae765/d9mat6h-d1f2b174-a400-495a-88c6-065dce5914c6.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2IxNTAyMTFmLWRlMDItNDdlZi04YTQ0LTIwNDY3OGJhZTc2NVwvZDltYXQ2aC1kMWYyYjE3NC1hNDAwLTQ5NWEtODhjNi0wNjVkY2U1OTE0YzYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.2fDQgx2GYge-tpUrrmDKgLYwNlqqpfY_R256TYJyopg" width="96" alt="Stamp 2" /> <img 
