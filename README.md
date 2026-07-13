@@ -1,1 +1,5 @@
 <p align="center"> <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/bd3694e5-4817-4008-a698-e07819c4093f/dan31r2-159420d4-813b-4e7b-9f01-298592b0e12d.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9iZDM2OTRlNS00ODE3LTQwMDgtYTY5OC1lMDc4MTljNDA5M2YvZGFuMzFyMi0xNTk0MjBkNC04MTNiLTRlN2ItOWYwMS0yOTg1OTJiMGUxMmQuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.BVAtHwH4gDm2E3gr4EKw-2BEed1rJLuJ2TXciJrqIWE" width="96" alt="Stamp 1" /> <img src="https://pixelsafari.neocities.org/stamps/spongebob.gif" width="96" alt="Stamp 2" /> <img src="https://pixelsafari.neocities.org/stamps/more/dog.gif" width="96" alt="Stamp 3" /> </p>
+
+![Image](https://github.com/ladsorladd/ladsorladd/blob/5a276ca0003373f23a9ab39c5f2b613fee4d8b3d/Tak%20berjudul126_20260714045124.png)
+
+![Image](https://github.com/ladsorladd/ladsorladd/blob/1f1a1a13afbe0eae3557b35c07764bfecfa9c16a/Tak%20berjudul125_20260714043924.png)
