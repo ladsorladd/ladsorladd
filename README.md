@@ -25,3 +25,7 @@ src="https://64.media.tumblr.com/dd8819522e5cfe8b7db8836f4fe53ac4/a5a43ad455896d
                                             src="https://github.com/ladsorladd/ladsorladd/blob/54d2a53c41c6c8bfab99e16e3288dc6d96d6e9e2/d9j1ncs-e161a832-a93f-42b2-b483-efacd91c4e21.gif" width="96" alt="Stamp 3" /> </p>
 
 ![image](https://github.com/ladsorladd/ladsorladd/blob/f527d6acb04f36a85de11e9f69066948392a39bd/Tak%20berjudul128_20260716034533.png)
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Pixel&size=30&duration=3000&pause=1000&color=F7D162&width=435&lines=*+I+mean..+What+can+I+say%3F+-%2C-;*+To+you!+-%5E-;*+For+me!+-p-" alt="Typing SVG" /></a>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kameron&duration=2000&pause=2000&color=5CA2F7&width=435&lines=*+Three+babies+in+the+backseat+singin'..;*+Hey+DJ%2C+won't+you+play+that+song.;*+And+turn+it+up+on+your+radio." alt="Typing SVG" /></a>
