@@ -23,3 +23,5 @@ src="https://64.media.tumblr.com/dd8819522e5cfe8b7db8836f4fe53ac4/a5a43ad455896d
 <p align="center"> <img src="https://github.com/ladsorladd/ladsorladd/blob/34436d2c080183b07615898ad47426ea04cbd27b/dav3l0l-a2cac4ab-9339-46af-9386-2f0193843001.png" width="96" alt="Stamp 1" /> <img
                                             src="https://github.com/ladsorladd/ladsorladd/blob/7ce3c1f2479f8c8feed25bdbf0999f274796d10d/da0tjvt-6dd18531-e211-4ba5-8112-6decd857943f.png" width="96" alt="Stamp 2" /> <img 
                                             src="https://github.com/ladsorladd/ladsorladd/blob/54d2a53c41c6c8bfab99e16e3288dc6d96d6e9e2/d9j1ncs-e161a832-a93f-42b2-b483-efacd91c4e21.gif" width="96" alt="Stamp 3" /> </p>
+
+![image](https://github.com/ladsorladd/ladsorladd/blob/f527d6acb04f36a85de11e9f69066948392a39bd/Tak%20berjudul128_20260716034533.png)
