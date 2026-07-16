@@ -29,3 +29,7 @@ src="https://64.media.tumblr.com/dd8819522e5cfe8b7db8836f4fe53ac4/a5a43ad455896d
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist+Pixel&size=30&duration=3000&pause=1000&color=F7D162&width=435&lines=*+I+mean..+What+can+I+say%3F+-%2C-;*+To+you!+-%5E-;*+For+me!+-p-" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Kameron&duration=2000&pause=2000&color=5CA2F7&width=435&lines=*+Three+babies+in+the+backseat+singin'..;*+Hey+DJ%2C+won't+you+play+that+song.;*+And+turn+it+up+on+your+radio." alt="Typing SVG" /></a>
+
+![My blinkie](https://github.com/ladsorladd/ladsorladd/blob/70323deafc711f713a004fbed094fbd6c3869116/picmix.com_1940420.gif)
+
+![My blinkie](https://github.com/ladsorladd/ladsorladd/blob/b1ea804519a9f260bd6f033cde34957be7579b00/picmix.com_2744670.gif)
